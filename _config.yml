@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "PUBH 5020"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Michael Miller Jr."
 description              : &description "Ethical Issues in Public Health"
 url                      : https://pubh5020.vip # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "michaelmillerjr/michaelmillerjr.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Michael Miller Jr., D.HCML, HEC-C"
+  name             : "Michael Miller"
   pronouns         : # example: "she/her"  
   bio              : "Your humble instructor"
   location         : "St. Louis, MO"
