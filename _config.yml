@@ -27,7 +27,7 @@ author:
   bio              : "Your humble instructor"
   location         : "St. Louis, MO"
   employer         : "Saint Louis University"
-  uri              : # URL
+  uri              : "https://slu.edu"
   email            : "info@pubh5020.vip" 
 
   # Academic websites
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "michaelmillerjr"
+  github           : # "michaelmillerjr"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
